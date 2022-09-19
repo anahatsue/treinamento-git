@@ -7,4 +7,6 @@ Esse é um exemplo de alteração.
 
 ## Alteração no repositório remoto
 Novas alterações.
-ddd
+
+## Nova branch
+Alteração da develop.
