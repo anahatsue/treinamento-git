@@ -15,3 +15,7 @@ Alteração vinda da main.
 
 ## Tela de vendas
 Uma tela de vendas funcional.
+
+## Como me sinto aprendendo Git?
+Estou curiosa para testar o git junto com colegas.
+Acredito que é uma ferramenta muito bem feita para o dia-a-dia do desenvolvedor.
