@@ -10,3 +10,6 @@ Novas alterações.
 
 ## Nova branch
 Alteração da develop.
+
+## Nova alteração da main
+Alteração vinda da main.
