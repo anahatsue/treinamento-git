@@ -7,3 +7,6 @@ Esse é um exemplo de alteração.
 
 ## Alteração no repositório remoto
 Novas alterações.
+
+## Nova alteração da main
+Alteração vinda da main.
